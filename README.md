@@ -68,7 +68,7 @@ ejecutar programas sin problemas de dll o librerías.
 ## i3_assets.sh
 Te permite instalar mis assets básicos para configurar mi escritorio con i3wm.
 
-## Lista completa de paquetes que instala este script:
+### Lista completa de paquetes que instala este script:
 
 - xrandr
 - nitrogen
