@@ -1,6 +1,9 @@
 # shell-scripts
 Scripts de Shell/Bash para uso personal.
 
+## Jarch.sh
+Te permite instalar todas las utilidades que ocupo en mis distros.
+
 ## Wine.sh
 Te permite instalar WINE, winetricks, wine-gecko, wine-mono y otras dependencias más para poder
 ejecutar programas sin problemas de dll o librerías.
